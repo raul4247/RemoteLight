@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Remote Light</string>
+
+    <string name="server_ip">192.168.0.8</string>
+    <string name="server_port">5000</string>
+
+    <string name="switch_btn">Switch</string>
+    <string name="server_btn">Ping</string>
+    <string name="connection_btn">Connection</string>
+    <string name="update_btn">Update</string>
+
+    <string name="ip_input">IP Address</string>
+    <string name="port_input">Port</string>
+</resources>
